@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+textarea, input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+textarea {
+    height: 100px;
+}
+
+button {
+    margin-bottom: 20px;
+}
+
+pre {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+}
